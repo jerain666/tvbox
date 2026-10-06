@@ -241,14 +241,6 @@
          "changeable": 0
       }
    ],
-   "lives": [
-      {
-         "name": "Kimentanm",
-         "type": 0,
-         "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-         "playerType": 2
-      }
-   ],
    "parses": [
       {
          "name": "聚合1",
