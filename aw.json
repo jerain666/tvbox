@@ -143,16 +143,6 @@
          "ext": "AppV7Dsx"
       },
       {
-         "name": "📦特狗┃秒播",
-         "key": "AppV6Tg",
-         "type": 3,
-         "api": "csp_AppV6Amns",
-         "searchable": 1,
-         "quickSearch": 1,
-         "changeable": 0,
-         "ext": "AppV6Tg"
-      },
-      {
          "name": "🔗哔嘀┃2K",
          "key": "Bidys",
          "type": 3,
