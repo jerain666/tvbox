@@ -202,36 +202,6 @@
          "changeable": 0
       },
       {
-         "name": "🎸酷狗┃音乐",
-         "key": "KuGou",
-         "type": 3,
-         "api": "csp_KuGouAmns",
-         "searchable": 1,
-         "quickSearch": 1,
-         "changeable": 0,
-         "genre": "music"
-      },
-      {
-         "name": "🎸酷听┃音乐",
-         "key": "Kuwo",
-         "type": 3,
-         "api": "csp_KuwoAmns",
-         "searchable": 1,
-         "quickSearch": 1,
-         "changeable": 0,
-         "genre": "music"
-      },
-      {
-         "name": "🎸蜻蜓┃电台",
-         "key": "QTfm",
-         "type": 3,
-         "api": "csp_QTfmAmns",
-         "searchable": 1,
-         "quickSearch": 1,
-         "changeable": 0,
-         "genre": "music"
-      },
-      {
          "name": "⚙️配置┃中心",
          "key": "MyConfig",
          "type": 3,
